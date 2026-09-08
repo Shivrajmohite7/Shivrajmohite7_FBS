@@ -7,5 +7,8 @@ for i in txt:
     if i>='a' and i<='z' or i>='A' and i<='Z':
         if i not in done:
             print(i,":",txt.count(i))
+            # done.append(i)
             done.append(i)
+
+
 
