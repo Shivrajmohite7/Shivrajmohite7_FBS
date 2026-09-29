@@ -6,7 +6,7 @@ dic={1:"one",2:"two",3:"three",4:"four",5:"five"}
 
 # 2. hetrogenous - means you can add int string or other data types
 
-dic={1:"one",2:"two",3:"three",4:"four",5:"five",6:200000}
+dic={1:"one",2:"two",3:"three",4:"four",5:"five",6:2000000}
 
 #ordered:
 
