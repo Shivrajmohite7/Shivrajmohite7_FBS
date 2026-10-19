@@ -1,4 +1,12 @@
 # Project Bubble Sort Visualizer
+# Technologies Used: Python, Matplotlib, Matplotlib Widgets
+
+# Key Features:
+# - Step-by-step visualization of Bubble Sort.
+# - Color-coded bars to highlight swapped elements.
+# - Interactive slider to navigate sorting steps.
+# - Real-time swap counter and sorted array display.
+
 
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider
