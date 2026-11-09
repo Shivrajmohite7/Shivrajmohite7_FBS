@@ -1,0 +1,303 @@
+Order_ID,Order_Date,Customer_ID,Customer_Segment,Region,City,Category,Product,Quantity,Unit_Price,Discount_Percent,Sales,Payment_Method,Order_Status,Shipping_Days,Customer_Rating
+ORD10001,2025-11-10,CUST1098,Returning,West,Ahmedabad,Electronics,Monitor,3,12894.74,10,34815.8,Net Banking,Delivered,1.0,3.0
+ORD10002,2025-05-16,CUST1065,Returning,Central,Bhopal,Fashion,Backpack,3,1709.25,10,4614.98,Debit Card,Cancelled,,
+ORD10003,2025-01-24,CUST1076,New,North,Delhi,Home & Kitchen,Water Bottle,3,473.59,20,1136.62,Cash on Delivery,Delivered,6.0,1.0
+ORD10004,2025-03-13,CUST1016,Returning,West,Ahmedabad,Home & Kitchen,Storage Rack,4,2785.09,15,9469.31,Net Banking,Delivered,1.0,3.0
+ORD10005,2025-05-16,CUST1019,New,East,Patna,Home & Kitchen,Storage Rack,2,2786.36,20,4458.18,Debit Card,Cancelled,,
+ORD10006,2025-06-09,CUST1071,New,East,Patna,Home & Kitchen,Water Bottle,4,473.95,20,1516.64,Cash on Delivery,Cancelled,,
+ORD10007,2025-04-16,CUST1014,New,Central,Nagpur,Home & Kitchen,Storage Rack,2,2881.76,20,4610.82,UPI,Cancelled,,
+ORD10008,2025-09-15,CUST1057,New,West,,Office Supplies,Desk Organizer,4,574.7,10,2068.92,UPI,Delivered,4.0,3.0
+ORD10009,2025-07-26,CUST1056,Returning,West,Ahmedabad,Home & Kitchen,Study Lamp,3,938.16,20,2251.58,Credit Card,Delivered,6.0,3.0
+ORD10010,2025-03-20,CUST1024,New,South,Hyderabad,Fashion,Backpack,3,1576.58,20,3783.79,Credit Card,Returned,10.0,1.0
+ORD10011,2025-07-23,CUST1041,Returning,East,Kolkata,Office Supplies,Office Chair,4,6795.25,0,27181.0,UPI,Returned,8.0,3.0
+ORD10012,2025-09-21,CUST1017,Returning,North,Jaipur,Home & Kitchen,Water Bottle,1,447.26,15,380.17,UPI,Cancelled,,
+ORD10013,2025-05-20,CUST1064,New,East,Patna,Home & Kitchen,Study Lamp,3,871.42,0,2614.26,UPI,Cancelled,,
+ORD10014,2025-11-28,CUST1097,Returning,South,Bengaluru,Home & Kitchen,Water Bottle,5,464.38,5,2205.8,Net Banking,Delivered,3.0,4.0
+ORD10015,2025-02-05,CUST1021,New,West,Ahmedabad,Office Supplies,Office Chair,2,6918.71,0,13837.42,Debit Card,Delivered,4.0,4.0
+ORD10016,2025-10-04,CUST1044,Returning,East,Kolkata,Fashion,Backpack,5,1656.18,0,8280.9,upi,Cancelled,,
+ORD10017,2025-06-01,CUST1033,New,West,Ahmedabad,Electronics,Headphones,1,2038.65,15,1732.85,UPI,Delivered,4.0,1.0
+ORD10018,2025-12-04,CUST1060,New,West,Pune,Electronics,Headphones,1,2228.53,5,2117.1,Cash on Delivery,Delivered,3.0,4.0
+ORD10019,2025-01-31,CUST1050,VIP,East,Kolkata,Home & Kitchen,Mixer Grinder,4,3193.17,0,12772.68,Debit Card,Cancelled,,
+ORD10020,2025-05-02,CUST1003,Returning,Central,Indore,Fashion,T-Shirt,2,702.32,20,1123.71,Cash on Delivery,Returned,6.0,2.0
+ORD10021,2025-02-09,CUST1066,Returning,South,Hyderabad,Fashion,Backpack,3,1644.09,5,4685.66,Net Banking,Delivered,3.0,2.0
+ORD10022,2025-03-26,CUST1038,Returning,West,Mumbai,Home & Kitchen,Water Bottle,5,416.69,20,1666.76,Cash on Delivery,Delivered,5.0,3.0
+ORD10023,2025-04-17,CUST1094,New,South,Chennai,Office Supplies,Office Chair,5,6515.66,15,27691.56,UPI,Returned,4.0,
+ORD10024,2025-11-22,CUST1090,Returning,Central,Bhopal,Home & Kitchen,Mixer Grinder,5,3327.29,0,16636.45,Credit Card,Returned,10.0,2.0
+ORD10025,2025-05-17,CUST1075,New,South,Bengaluru,Electronics,Monitor,4,11688.93,10,42080.15,Cash on Delivery,Cancelled,,
+ORD10026,2025-10-31,CUST1018,Returning,North,Jaipur,Office Supplies,Notebook Pack,1,236.13,0,236.13,Cash on Delivery,Cancelled,,
+ORD10027,2025-10-11,CUST1015,New,South,Bengaluru,Electronics,Wireless Mouse,2,699.07,20,1118.51,Credit Card,Delivered,5.0,3.0
+ORD10028,2025-02-14,CUST1059,New,North,Jaipur,Home & Kitchen,Water Bottle,4,450.46,20,1441.47,Cash on Delivery,Returned,8.0,4.0
+ORD10029,2025-02-17,CUST1040,New,North,Delhi,Electronics,Headphones,4,2067.56,20,6616.19,Debit Card,Delivered,8.0,1.0
+ORD10030,2025-04-15,CUST1056,Returning,South,Hyderabad,Fashion,Running Shoes,5,2776.72,10,12495.24,UPI,Delivered,1.0,3.0
+ORD10031,2025-12-19,CUST1081,Returning,West,Mumbai,Fashion,Backpack,3,1624.59,0,4873.77,Net Banking,Delivered,8.0,4.0
+ORD10032,2025-10-30,CUST1054,Returning,West,Ahmedabad,Office Supplies,Notebook Pack,1,261.87,5,248.78,Cash on Delivery,Delivered,,2.0
+ORD10033,2025-05-17,CUST1087,Returning,South,Chennai,Office Supplies,Printer Paper,3,375.49,0,1126.47,Credit Card,Delivered,6.0,5.0
+ORD10034,2025-10-26,CUST1060,New,Central,Indore,Home & Kitchen,Water Bottle,4,421.58,20,1349.06,Cash on Delivery,Returned,2.0,3.0
+ORD10035,2025-12-03,CUST1016,New,Central,Bhopal,Home & Kitchen,Mixer Grinder,1,3028.75,20,2423.0,UPI,Delivered,3.0,3.0
+ORD10036,2025-01-20,CUST1040,New,North,Jaipur,Fashion,Backpack,1,1623.33,20,1298.66,Debit Card,Delivered,6.0,5.0
+ORD10037,2025-01-16,CUST1025,Returning,West,Ahmedabad,Fashion,Watch,5,1803.18,10,8114.31,Debit Card,Returned,4.0,2.0
+ORD10038,2025-07-11,CUST1006,VIP,North,Jaipur,Home & Kitchen,Water Bottle,2,421.32,20,674.11,UPI,Delivered,7.0,1.0
+ORD10039,2025-12-24,CUST1065,Returning,Central,Nagpur,Office Supplies,Desk Organizer,5,576.58,5,2738.76,UPI,Delivered,7.0,4.0
+ORD10040,2025-11-10,CUST1039,Returning,South,Bengaluru,Office Supplies,Printer Paper,3,377.74,20,906.58,Credit Card,Cancelled,,
+ORD10041,2025-06-02,CUST1037,New,East,Bhubaneswar,Electronics,Wireless Mouse,3,622.19,0,1866.57,Credit Card,Delivered,3.0,3.0
+ORD10042,2025-12-13,CUST1033,Returning,South,Hyderabad,Electronics,Headphones,2,2346.55,15,3989.14,Cash on Delivery,Returned,6.0,4.0
+ORD10043,2025-07-14,CUST1074,New,west,Chennai,Home & Kitchen,Study Lamp,5,919.14,10,4136.13,Net Banking,Delivered,3.0,1.0
+ORD10044,2025-08-13,CUST1073,New,Central,Bhopal,Fashion,Watch,1,1776.91,20,1421.53,Cash on Delivery,Cancelled,,
+ORD10045,2025-10-20,CUST1080,VIP,Central,Indore,Fashion,Backpack,5,1623.98,0,8119.9,Credit Card,Delivered,7.0,5.0
+ORD10046,2025-08-13,CUST1058,Returning,North,Jaipur,Fashion,Running Shoes,1,2463.26,10,2216.93,Debit Card,Delivered,5.0,1.0
+ORD10047,2025-06-29,CUST1012,New,Central,Nagpur,Fashion,Watch,4,1930.28,10,6949.01,UPI,Delivered,8.0,5.0
+ORD10048,2025-10-10,CUST1034,VIP,West,Ahmedabad,Home & Kitchen,Study Lamp,3,924.66,20,2219.18,Net Banking,Cancelled,,
+ORD10049,2025-04-25,CUST1094,New,West,Ahmedabad,Fashion,T-Shirt,2,661.65,10,1190.97,Credit Card,Returned,3.0,1.0
+ORD10050,2025-12-08,CUST1048,New,North,,Electronics,Headphones,3,2298.67,20,5516.81,Cash on Delivery,Cancelled,,
+ORD10051,2025-02-13,CUST1013,Returning,Central,Indore,Electronics,Headphones,5,2323.39,10,10455.25,Net Banking,Returned,8.0,1.0
+ORD10052,2025-10-29,CUST1045,New,North,Chandigarh,Fashion,Backpack,3,1547.61,15,3946.41,Cash on Delivery,Returned,6.0,2.0
+ORD10053,2025-12-30,CUST1029,Returning,East,Kolkata,Fashion,Watch,1,2015.28,5,1914.52,UPI,Cancelled,,
+ORD10054,2025-08-26,CUST1090,New,North,Delhi,Fashion,Watch,4,1775.49,0,7101.96,Credit Card,Cancelled,,
+ORD10055,2025-03-14,CUST1004,New,Central,Indore,Home & Kitchen,Water Bottle,4,479.57,20,1534.62,UPI,Delivered,6.0,5.0
+ORD10056,2025-03-29,CUST1081,VIP,Central,Indore,Office Supplies,Printer Paper,5,401.24,20,1604.96,Net Banking,Delivered,1.0,4.0
+ORD10057,2025-01-15,CUST1051,Returning,Central,Bhopal,Office Supplies,Printer Paper,5,361.87,10,1628.41,Net Banking,Delivered,1.0,4.0
+ORD10058,2025-09-26,CUST1071,VIP,East,Patna,Electronics,Monitor,1,11886.08,20,9508.86,Net Banking,Delivered,3.0,1.0
+ORD10059,2025-01-16,CUST1018,New,North,Jaipur,Fashion,Backpack,4,1698.34,0,6793.36,UPI,Delivered,6.0,3.0
+ORD10060,2025-10-14,CUST1015,VIP,East,Bhubaneswar,Home & Kitchen,Storage Rack,3,2861.11,10,7725.0,Credit Card,Returned,7.0,3.0
+ORD10061,2025-08-25,CUST1051,New,East,Patna,Home & Kitchen,Study Lamp,4,963.45,5,3661.11,Debit Card,Delivered,2.0,3.0
+ORD10062,2025-04-12,CUST1043,Returning,Central,Bhopal,Electronics,Wireless Mouse,1,629.69,20,503.75,Net Banking,Cancelled,,
+ORD10063,2025-03-21,CUST1032,New,North,Delhi,Office Supplies,Office Chair,3,6591.84,20,15820.42,Debit Card,Cancelled,,
+ORD10064,2025-07-28,CUST1065,Returning,North,Chandigarh,Home & Kitchen,Mixer Grinder,2,3233.68,0,6467.36,Credit Card,Delivered,6.0,3.0
+ORD10065,2025-06-07,CUST1052,Returning,South,Chennai,Electronics,Monitor,3,12752.02,0,38256.06,Cash on Delivery,Delivered,3.0,5.0
+ORD10066,2025-07-09,CUST1084,Returning,Central,Indore,Electronics,Monitor,3,13099.74,15,33404.34,UPI,Delivered,3.0,3.0
+ORD10067,2025-01-21,CUST1018,New,Central,Indore,Electronics,Wireless Mouse,5,627.18,20,2508.72,Net Banking,Delivered,3.0,3.0
+ORD10068,2025-11-09,CUST1016,Returning,East,Patna,Office Supplies,Notebook Pack,5,244.89,15,1040.78,UPI,Cancelled,,
+ORD10069,2025-12-30,CUST1069,Returning,East,Patna,Fashion,T-Shirt,5,730.48,0,3652.4,Credit Card,Delivered,3.0,4.0
+ORD10070,2025-03-18,CUST1017,Returning,South,Hyderabad,Office Supplies,Printer Paper,1,381.53,15,324.3,Cash on Delivery,Delivered,2.0,4.0
+ORD10071,2025-12-28,CUST1040,New,South,Hyderabad,Office Supplies,Printer Paper,5,358.21,20,1432.84,Net Banking,Delivered,4.0,5.0
+ORD10072,2025-02-24,CUST1005,New,East,Kolkata,Electronics,Keyboard,3,1138.74,20,2732.98,Credit Card,Delivered,8.0,5.0
+ORD10073,2025-06-30,CUST1085,Returning,Central,Bhopal,Electronics,Keyboard,3,1120.15,15,2856.38,Net Banking,Delivered,2.0,5.0
+ORD10074,2025-01-22,CUST1054,New,West,Ahmedabad,Electronics ,Study Lamp,4,880.79,15,2994.69,Cash on Delivery,Cancelled,,
+ORD10075,2025-11-07,CUST1059,VIP,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,4,3202.45,15,10888.33,Credit Card,Delivered,8.0,2.0
+ORD10076,2025-02-08,CUST1064,New,Central,Indore,Fashion,T-Shirt,3,688.64,10,1859.33,Credit Card,Returned,11.0,4.0
+ORD10077,2025-12-05,CUST1060,New,South,Chennai,Home & Kitchen,Water Bottle,1,446.27,15,379.33,Credit Card,Delivered,3.0,1.0
+ORD10078,2025-12-25,CUST1077,VIP,East,Bhubaneswar,Electronics,Headphones,4,2242.37,15,7624.06,Net Banking,Returned,6.0,5.0
+ORD10079,2025-11-13,CUST1045,Returning,West,Ahmedabad,Home & Kitchen,Storage Rack,4,2627.12,10,9457.63,Net Banking,Delivered,6.0,5.0
+ORD10080,2025-04-16,CUST1035,New,North,Delhi,Home & Kitchen,Storage Rack,5,2904.72,0,14523.6,UPI,Returned,9.0,4.0
+ORD10081,2025-12-26,CUST1042,Returning,Central,Bhopal,Fashion,Watch,3,1889.35,20,4534.44,UPI,Delivered,8.0,2.0
+ORD10082,2025-12-04,CUST1038,New,East,Bhubaneswar,Electronics,Headphones,5,2313.55,5,10989.36,UPI,Delivered,1.0,1.0
+ORD10083,2025-10-10,CUST1074,Returning,West,Mumbai,Office Supplies,Printer Paper,4,402.22,15,1367.55,UPI,Cancelled,,
+ORD10084,2025-11-10,CUST1068,New,North,Jaipur,Office Supplies,Notebook Pack,4,230.18,5,874.68,Debit Card,Returned,7.0,2.0
+ORD10085,2025-03-28,CUST1086,New,West,Ahmedabad,Fashion,Watch,4,2007.25,5,7627.55,Debit Card,Delivered,3.0,4.0
+ORD10086,2025-11-20,CUST1009,New,North,Chandigarh,Home & Kitchen,Mixer Grinder,2,3040.05,10,5472.09,Net Banking,Cancelled,,
+ORD10087,2025-04-19,CUST1058,VIP,East,Patna,Home & Kitchen,Storage Rack,5,2758.76,15,11724.73,Net Banking,Delivered,2.0,1.0
+ORD10088,2025-12-01,CUST1037,New,North,Chandigarh,Fashion,Running Shoes,2,2598.72,10,4677.7,Credit Card,Delivered,2.0,1.0
+ORD10089,2025-08-20,CUST1096,Returning,South,Chennai,Fashion,Backpack,3,1559.88,20,3743.71,Debit Card,Delivered,4.0,
+ORD10090,2025-03-27,CUST1053,Returning,South,Bengaluru,Office Supplies,Office Chair,5,6318.36,5,30012.21,Debit Card,Returned,11.0,2.0
+ORD10091,2025-03-30,CUST1088,New,North,Delhi,Fashion,Running Shoes,2,2526.16,20,4041.86,Debit Card,Delivered,2.0,2.0
+ORD10092,2025-06-10,CUST1068,Returning,East,Patna,Home & Kitchen,Storage Rack,4,2789.36,15,9483.82,Cash on Delivery,Returned,11.0,3.0
+ORD10093,2025-07-25,CUST1096,Returning,East,Patna,Home & Kitchen,Storage Rack,1,2621.65,0,2621.65,Debit Card,Delivered,6.0,2.0
+ORD10094,2025-02-07,CUST1007,Returning,Central,Indore,Electronics,Wireless Mouse,5,602.27,15,2559.65,Debit Card,Delivered,2.0,3.0
+ORD10095,2025-02-10,CUST1007,Returning,North,Chandigarh,Office Supplies,Office Chair,1,6379.88,20,5103.9,Credit Card,Cancelled,,
+ORD10096,2025-06-02,CUST1087,New,East,Kolkata,Office Supplies,Office Chair,2,5981.73,5,11365.29,Debit Card,Delivered,1.0,3.0
+ORD10097,2025-06-07,CUST1027,New,North,Chandigarh,Home & Kitchen,Mixer Grinder,2,3343.66,10,6018.59,Credit Card,Delivered,7.0,3.0
+ORD10098,2025-03-25,CUST1005,Returning,Central,Nagpur,Office Supplies,Office Chair,4,6323.97,5,24031.09,Net Banking,Delivered,8.0,3.0
+ORD10099,2025-02-20,CUST1019,New,West,Pune,Electronics,Wireless Mouse,1,693.56,5,658.88,UPI,Delivered,1.0,5.0
+ORD10100,2025-07-27,CUST1085,New,East,Kolkata,Fashion,Running Shoes,2,2637.52,0,5275.04,Cash on Delivery,Cancelled,,
+ORD10101,2025-10-10,CUST1092,Returning,East,Patna,Fashion,Running Shoes,1,2747.88,20,2198.3,Net Banking,Delivered,3.0,2.0
+ORD10102,2025-10-24,CUST1061,New,North,Chandigarh,Office Supplies,Desk Organizer,2,534.02,15,907.83,Debit Card,Delivered,7.0,1.0
+ORD10103,2025-01-11,CUST1017,Returning,Central,Nagpur,Fashion,T-Shirt,1,682.81,20,546.25,Net Banking,Delivered,1.0,4.0
+ORD10104,2025-11-21,CUST1015,Returning,Central,Indore,Home & Kitchen,Study Lamp,2,913.51,0,1827.02,UPI,Delivered,2.0,4.0
+ORD10105,2025-01-02,CUST1059,New,North,Chandigarh,Office Supplies,Printer Paper,5,350.61,5,1665.4,Cash on Delivery,Delivered,8.0,3.0
+ORD10106,2025-08-15,CUST1006,Returning,East,Kolkata,Electronics,Monitor,3,12046.37,0,36139.11,Credit Card,Cancelled,,
+ORD10107,2025-01-07,CUST1088,New,Central,Bhopal,Home & Kitchen,Study Lamp,5,913.78,0,4568.9,Net Banking,Delivered,2.0,5.0
+ORD10108,2025-09-05,CUST1057,Returning,East,Patna,Electronics,Headphones,2,2279.47,15,3875.1,Cash on Delivery,Cancelled,,
+ORD10109,2025-01-05,CUST1041,New,Central,Nagpur,Electronics,Keyboard,3,1256.84,20,3016.42,Cash on Delivery,Delivered,5.0,3.0
+ORD10110,2025-02-24,CUST1020,VIP,North,Jaipur,Fashion,T-Shirt,4,751.69,10,2706.08,Cash on Delivery,Delivered,2.0,4.0
+ORD10111,2025-09-25,CUST1038,Returning,South,Bengaluru,Electronics,Wireless Mouse,3,689.35,20,1654.44,Net Banking,Cancelled,,
+ORD10112,2025-07-28,CUST1091,VIP,East,Patna,Fashion,Running Shoes,4,2435.52,20,7793.66,Net Banking,Cancelled,,
+ORD10113,2025-09-29,CUST1038,Returning,North,Jaipur,Fashion,Backpack,2,1477.92,10,2660.26,Cash on Delivery,Delivered,8.0,5.0
+ORD10114,2025-08-11,CUST1061,VIP,West,Mumbai,Fashion,T-Shirt,2,709.07,5,1347.23,Debit Card,Delivered,4.0,1.0
+ORD10115,2025-05-24,CUST1069,New,South,Bengaluru,Electronics,Wireless Mouse,2,611.64,5,1162.12,Cash on Delivery,Delivered,2.0,2.0
+ORD10116,2025-10-03,CUST1021,New,North,Chandigarh,Fashion,Backpack,1,1697.55,10,1527.8,Debit Card,Delivered,3.0,3.0
+ORD10117,2025-01-17,CUST1066,Returning,East,Patna,Electronics,Keyboard,2,1196.45,0,2392.9,UPI,Delivered,8.0,2.0
+ORD10118,2025-10-07,CUST1091,VIP,North,Chandigarh,Electronics,Keyboard,2,1272.33,5,2417.43,Cash on Delivery,Cancelled,,
+ORD10119,2025-02-20,CUST1010,Returning,East,Patna,Home & Kitchen,Storage Rack,1,2712.4,10,2441.16,Net Banking,Delivered,5.0,3.0
+ORD10120,2025-04-03,CUST1059,Returning,East,Patna,Home & Kitchen,Study Lamp,1,851.08,0,851.08,Credit Card,Delivered,7.0,2.0
+ORD10121,2025-10-05,CUST1095,New,Central,Indore,Office Supplies,Office Chair,3,6783.25,0,20349.75,Cash on Delivery,Delivered,2.0,4.0
+ORD10122,2025-11-05,CUST1042,New,South,Bengaluru,Fashion,Backpack,2,1517.95,0,3035.9,Credit Card,Cancelled,,
+ORD10123,2025-11-16,CUST1025,New,North,Delhi,Office Supplies,Printer Paper,5,370.23,10,1666.04,UPI,Delivered,5.0,4.0
+ORD10124,2025-10-11,CUST1053,Returning,North,Jaipur,Electronics,Monitor,5,12535.32,0,62676.6,Debit Card,Delivered,4.0,3.0
+ORD10125,2025-12-14,CUST1017,Returning,South,Hyderabad,Home & Kitchen,Water Bottle,1,448.71,0,448.71,Credit Card,Returned,11.0,1.0
+ORD10126,2025-02-13,CUST1061,Returning,Central,Nagpur,Electronics,Keyboard,1,1280.03,5,1216.03,Debit Card,Delivered,3.0,5.0
+ORD10127,2025-12-27,CUST1047,New,West,Ahmedabad,Fashion,Running Shoes,1,2732.42,20,2185.94,Cash on Delivery,Returned,9.0,2.0
+ORD10128,2025-05-05,CUST1063,Returning,East,Bhubaneswar,Fashion,T-Shirt,1,732.98,20,586.38,Net Banking,Cancelled,,
+ORD10129,2025-06-09,CUST1001,VIP,South,,Office Supplies,Notebook Pack,5,255.56,10,1150.02,Credit Card,Cancelled,,
+ORD10130,2025-02-17,CUST1064,New,South,Bengaluru,Office Supplies,Notebook Pack,3,236.09,15,602.03,Cash on Delivery,Cancelled,,
+ORD10131,2025-06-18,CUST1060,Returning,East,Bhubaneswar,Fashion,T-Shirt,4,717.91,15,2440.89,Cash on Delivery,Cancelled,,
+ORD10132,2025-09-05,CUST1045,VIP,East,Patna,Fashion,T-Shirt,1,738.75,0,738.75,Net Banking,Delivered,1.0,5.0
+ORD10133,2025-08-29,CUST1037,Returning,East,Bhubaneswar,Home & Kitchen,Storage Rack,3,2711.51,15,6914.35,Debit Card,Delivered,8.0,4.0
+ORD10134,2025-07-05,CUST1065,New,North,Jaipur,Office Supplies,Printer Paper,4,404.75,10,1457.1,Debit Card,Delivered,4.0,1.0
+ORD10135,2025-02-03,CUST1067,New,South,Hyderabad,Home & Kitchen,Mixer Grinder,1,3285.75,20,2628.6,Credit Card,Delivered,6.0,4.0
+ORD10136,2025-11-11,CUST1013,New,North,Jaipur,Office Supplies,Notebook Pack,4,239.87,20,767.58,UPI,Returned,8.0,1.0
+ORD10137,2025-11-29,CUST1071,VIP,South,Chennai,Home & Kitchen,Mixer Grinder,4,3047.69,20,9752.61,Net Banking,Returned,7.0,3.0
+ORD10138,2025-04-27,CUST1069,New,South,Chennai,Fashion,T-Shirt,4,753.33,0,3013.32,Debit Card,Delivered,4.0,3.0
+ORD10139,2025-06-12,CUST1033,Returning,Central,Nagpur,Fashion,Watch,4,2032.52,5,7723.58,Debit Card,Returned,10.0,2.0
+ORD10140,2025-03-31,CUST1085,VIP,Central,Indore,Home & Kitchen,Study Lamp,2,959.42,20,1535.07,Net Banking,Returned,11.0,2.0
+ORD10141,2025-06-25,CUST1025,Returning,South,Chennai,Office Supplies,Desk Organizer,4,546.17,0,2184.68,Credit Card,Cancelled,,
+ORD10142,2025-05-30,CUST1082,VIP,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,3,3056.05,5,8709.74,UPI,Cancelled,,
+ORD10143,2025-10-19,CUST1078,New,North,Delhi,Home & Kitchen,Water Bottle,2,474.42,10,853.96,Credit Card,Delivered,2.0,4.0
+ORD10144,2025-02-26,CUST1094,VIP,South,Chennai,Home & Kitchen,Storage Rack,1,2765.41,20,2212.33,UPI,Delivered,5.0,5.0
+ORD10145,2025-04-09,CUST1012,Returning,East,Bhubaneswar,Office Supplies,Notebook Pack,4,265.39,5,1008.48,UPI,Delivered,6.0,3.0
+ORD10146,2025-07-02,CUST1066,VIP,East,Kolkata,Electronics,Keyboard,3,1235.74,5,3521.86,Cash on Delivery,Cancelled,,
+ORD10147,2025-09-23,CUST1047,New,North,Delhi,Electronics,Headphones,1,2367.79,15,2012.62,UPI,Delivered,3.0,2.0
+ORD10148,2025-10-15,CUST1042,New,West,Pune,Home & Kitchen,Study Lamp,2,947.83,5,1800.88,Net Banking,Returned,10.0,5.0
+ORD10149,2025-11-22,CUST1010,New,North,Delhi,Fashion,Watch,3,1791.75,5,5106.49,Debit Card,Delivered,8.0,5.0
+ORD10150,2025-01-01,CUST1004,Returning,East,Patna,Home & Kitchen,Water Bottle,1,445.41,5,423.14,Cash on Delivery,Returned,9.0,1.0
+ORD10151,2025-11-11,CUST1082,New,North,Chandigarh,Home & Kitchen,Water Bottle,1,473.26,0,473.26,Credit Card,Delivered,5.0,3.0
+ORD10152,2025-10-02,CUST1047,New,East,Bhubaneswar,Fashion,Running Shoes,2,2601.74,5,4943.31,Credit Card,Delivered,7.0,4.0
+ORD10153,2025-02-13,CUST1018,Returning,West,Pune,Fashion,Backpack,4,1494.01,20,4780.83,Credit Card,Delivered,2.0,1.0
+ORD10154,2025-08-27,CUST1088,VIP,Central,Nagpur,Fashion,Watch,1,1884.41,20,1507.53,Cash on Delivery,Returned,5.0,1.0
+ORD10155,2025-08-28,CUST1057,Returning,West,Mumbai,Home & Kitchen,Water Bottle,2,434.81,10,782.66,Cash on Delivery,Delivered,6.0,1.0
+ORD10156,2025-01-19,CUST1027,New,East,Kolkata,Home & Kitchen,Study Lamp,1,914.62,10,823.16,Net Banking,Delivered,4.0,4.0
+ORD10157,2025-05-21,CUST1032,Returning,South,Chennai,Electronics,Monitor,3,12041.39,0,36124.17,Net Banking,Delivered,5.0,1.0
+ORD10158,2025-03-19,CUST1065,New,South,Hyderabad,Office Supplies,Notebook Pack,1,265.78,0,265.78,Cash on Delivery,Cancelled,,
+ORD10159,2025-12-08,CUST1059,New,Central,Indore,Electronics,Keyboard,3,1115.42,20,2677.01,Net Banking,Delivered,2.0,3.0
+ORD10160,2025-03-17,CUST1014,VIP,Central,Indore,Electronics,Wireless Mouse,1,641.96,10,577.76,Credit Card,Delivered,2.0,1.0
+ORD10161,2025-05-11,CUST1021,VIP,South,Bengaluru,Home & Kitchen,Mixer Grinder,1,3079.58,10,2771.62,Cash on Delivery,Returned,8.0,3.0
+ORD10162,2025-02-12,CUST1086,Returning,West,Pune,Fashion,Backpack,1,1630.61,0,1630.61,Cash on Delivery,Delivered,1.0,1.0
+ORD10163,2025-01-17,CUST1095,Returning,North,Jaipur,Fashion,Running Shoes,5,2558.93,10,11515.18,Cash on Delivery,Delivered,3.0,3.0
+ORD10164,2025-07-02,CUST1039,New,Central,Nagpur,Office Supplies,Notebook Pack,5,249.75,5,1186.31,Debit Card,Delivered,8.0,5.0
+ORD10165,2025-03-12,CUST1087,Returning,West,Mumbai,Home & Kitchen,Water Bottle,2,421.44,5,800.74,Credit Card,Cancelled,,
+ORD10166,2025-08-20,CUST1040,New,East,Kolkata,Fashion,T-Shirt,3,747.8,20,1794.72,Debit Card,Returned,11.0,4.0
+ORD10167,2025-08-29,CUST1035,New,South,Chennai,Office Supplies,Printer Paper,3,383.31,5,1092.43,UPI,Delivered,3.0,5.0
+ORD10168,2025-05-23,CUST1057,Returning,East,Bhubaneswar,Home & Kitchen,Water Bottle,4,429.45,20,1374.24,Credit Card,Cancelled,,
+ORD10169,2025-08-07,CUST1095,New,Central,Indore,Fashion,Watch,5,1951.36,0,9756.8,Cash on Delivery,Returned,2.0,4.0
+ORD10170,2025-01-15,CUST1003,Returning,Central,Indore,Office Supplies,Printer Paper,1,390.97,15,332.32,Cash on Delivery,Returned,7.0,1.0
+ORD10171,2025-01-02,CUST1088,New,South,Hyderabad,Electronics,Keyboard,3,1255.04,10,3388.61,Debit Card,Returned,5.0,5.0
+ORD10172,2025-10-10,CUST1097,VIP,West,Ahmedabad,Electronics,Keyboard,1,1199.35,10,1079.41,Cash on Delivery,Delivered,5.0,2.0
+ORD10173,2025-11-17,CUST1082,Returning,Central,Indore,Office Supplies,Notebook Pack,3,244.98,20,587.95,Debit Card,Delivered,1.0,2.0
+ORD10174,2025-06-05,CUST1012,Returning,West,Pune,Fashion,Watch,4,1860.48,20,5953.54,Cash on Delivery,Delivered,4.0,1.0
+ORD10175,2025-11-16,CUST1047,Returning,West,Mumbai,Electronics,Keyboard,2,1108.6,15,1884.62,UPI,Returned,7.0,3.0
+ORD10176,2025-08-14,CUST1053,New,North,Chandigarh,Fashion,Running Shoes,2,2408.68,15,4094.76,UPI,Delivered,4.0,5.0
+ORD10177,2025-02-05,CUST1081,VIP,East,Kolkata,Fashion,Backpack,2,1714.51,0,3429.02,UPI,Delivered,,2.0
+ORD10178,2025-08-20,CUST1004,Returning,Central,Bhopal,Fashion,Running Shoes,5,2570.47,20,10281.88,Cash on Delivery,Delivered,4.0,2.0
+ORD10179,2025-09-15,CUST1005,VIP,West,Ahmedabad,Home & Kitchen,Storage Rack,1,2711.19,5,2575.63,Cash on Delivery,Delivered,8.0,2.0
+ORD10180,2025-11-01,CUST1054,VIP,South,Hyderabad,Office Supplies,Notebook Pack,1,236.23,0,236.23,Debit Card,Cancelled,,
+ORD10181,2025-01-24,CUST1019,New,West,Pune,Fashion,T-Shirt,3,752.5,20,1806.0,Cash on Delivery,Delivered,3.0,4.0
+ORD10182,2025-09-16,CUST1085,VIP,West,Mumbai,Electronics,Wireless Mouse,5,684.32,0,3421.6,UPI,Delivered,8.0,4.0
+ORD10183,2025-07-18,CUST1071,Returning,South,Chennai,Office Supplies,Desk Organizer,3,585.11,5,1667.56,Debit Card,Delivered,8.0,3.0
+ORD10184,2025-05-23,CUST1008,Returning,South,Hyderabad,Office Supplies,Office Chair,2,6073.34,0,12146.68,Debit Card,Cancelled,,
+ORD10185,2025-01-13,CUST1098,New,Central,Bhopal,Electronics,Monitor,4,11815.05,0,47260.2,Debit Card,Returned,4.0,2.0
+ORD10186,2025-03-28,CUST1007,New,Central,Indore,Fashion,Watch,5,1762.93,0,8814.65,Debit Card,Delivered,2.0,5.0
+ORD10187,2025-08-17,CUST1062,VIP,South,Chennai,Home & Kitchen,Storage Rack,3,2666.44,15,6799.42,Cash on Delivery,Delivered,7.0,5.0
+ORD10188,2025-03-24,CUST1095,New,North,Delhi,Electronics,Keyboard,1,1188.07,10,1069.26,Net Banking,Cancelled,,
+ORD10189,2025-04-28,CUST1044,New,East,Patna,Electronics,Headphones,1,2253.92,15,1915.83,Net Banking,Delivered,6.0,1.0
+ORD10190,2025-03-10,CUST1052,Returning,West,Ahmedabad,Office Supplies,Notebook Pack,5,234.29,15,995.73,Debit Card,Delivered,4.0,3.0
+ORD10191,2025-06-24,CUST1060,New,North,Jaipur,Home & Kitchen,Storage Rack,3,2764.95,10,7465.36,Net Banking,Returned,2.0,4.0
+ORD10192,2025-06-21,CUST1007,Returning,East,Patna,Fashion,Backpack,5,1701.57,0,8507.85,Net Banking,Delivered,4.0,4.0
+ORD10193,2025-08-21,CUST1064,New,Central,Bhopal,Fashion,Watch,3,2008.29,10,5422.38,Net Banking,Cancelled,,
+ORD10194,2025-05-16,CUST1082,Returning,Central,Indore,Office Supplies,Printer Paper,5,375.44,15,1595.62,Net Banking,Cancelled,,
+ORD10195,2025-09-29,CUST1063,Returning,East,Kolkata,Home & Kitchen,Mixer Grinder,2,3011.15,10,5420.07,Cash on Delivery,Delivered,2.0,2.0
+ORD10196,2025-12-15,CUST1030,Returning,East,Kolkata,Fashion,T-Shirt,1,661.3,0,661.3,Cash on Delivery,Delivered,2.0,2.0
+ORD10197,2025-03-05,CUST1048,New,North,Chandigarh,Fashion,Watch,4,1856.74,20,5941.57,Credit Card,Cancelled,,
+ORD10198,2025-07-20,CUST1049,Returning,South,Chennai,Electronics,Keyboard,1,1239.37,15,1053.46,Net Banking,Delivered,1.0,3.0
+ORD10199,2025-10-27,CUST1018,Returning,South,Chennai,Electronics,Monitor,3,11981.51,10,32350.08,Credit Card,Delivered,3.0,1.0
+ORD10200,2025-04-25,CUST1044,New,Central,Nagpur,Fashion,Backpack,4,1541.84,0,6167.36,Credit Card,Delivered,2.0,1.0
+ORD10201,2025-12-06,CUST1065,VIP,East,Bhubaneswar,Office Supplies,Notebook Pack,4,249.92,0,999.68,Cash on Delivery,Cancelled,,
+ORD10202,2025-11-28,CUST1009,New,East,Bhubaneswar,Home & Kitchen,Study Lamp,5,941.97,20,3767.88,Debit Card,Delivered,4.0,
+ORD10203,2025-07-27,CUST1084,New,East,Patna,Home & Kitchen,Mixer Grinder,3,3226.71,10,8712.12,Credit Card,Cancelled,,
+ORD10204,2025-12-30,CUST1032,New,North,Jaipur,Electronics,Monitor,5,13245.82,15,56294.74,Credit Card,Delivered,8.0,1.0
+ORD10205,2025-05-06,CUST1030,New,West,Pune,Office Supplies,Printer Paper,5,383.47,10,1725.62,UPI,Cancelled,,
+ORD10206,2025-05-28,CUST1020,New,West,Pune,Fashion,Backpack,5,1685.53,15,7163.5,Cash on Delivery,Delivered,6.0,4.0
+ORD10207,2025-02-21,CUST1024,New,Central,Bhopal,Office Supplies,Office Chair,5,6684.82,15,28410.48,Cash on Delivery,Returned,10.0,3.0
+ORD10208,2025-06-07,CUST1078,Returning,North,Chandigarh,Fashion,T-Shirt,3,672.34,20,1613.62,Credit Card,Cancelled,,
+ORD10209,2025-01-02,CUST1004,New,Central,Nagpur,Fashion,Watch,2,1921.63,15,3266.77,Debit Card,Delivered,8.0,5.0
+ORD10210,2025-05-25,CUST1019,New,West,Mumbai,Fashion,Watch,1,1975.11,0,1975.11,Debit Card,Delivered,3.0,2.0
+ORD10211,2025-08-23,CUST1042,New,West,Pune,Home & Kitchen,Mixer Grinder,5,3297.49,10,14838.7,Cash on Delivery,Delivered,8.0,1.0
+ORD10212,2025-10-03,CUST1021,New,Central,Bhopal,Electronics,Wireless Mouse,4,608.17,0,2432.68,Debit Card,Delivered,4.0,1.0
+ORD10213,2025-11-28,CUST1027,New,North,Delhi,Electronics,Keyboard,4,1258.12,5,4780.86,Credit Card,Cancelled,,
+ORD10214,2025-05-27,CUST1040,New,North,Delhi,Home & Kitchen,Water Bottle,5,430.18,10,1935.81,UPI,Delivered,7.0,4.0
+ORD10215,2025-03-18,CUST1086,Returning,East,Kolkata,Office Supplies,Printer Paper,4,405.38,0,1621.52,Credit Card,Cancelled,,
+ORD10216,2025-04-22,CUST1013,Returning,Central,Indore,Fashion,Backpack,5,1630.44,10,7336.98,Cash on Delivery,Delivered,7.0,4.0
+ORD10217,2025-11-16,CUST1083,Returning,Central,Bhopal,Electronics,Headphones,3,2209.67,0,6629.01,Credit Card,Returned,9.0,1.0
+ORD10218,2025-07-03,CUST1040,Returning,Central,Nagpur,Home & Kitchen,Water Bottle,2,450.38,5,855.72,Cash on Delivery,Delivered,5.0,5.0
+ORD10219,2025-09-05,CUST1019,Returning,West,Mumbai,Office Supplies,Notebook Pack,4,250.92,5,953.5,Cash on Delivery,Cancelled,,
+ORD10220,2025-12-26,CUST1048,VIP,Central,Indore,Electronics,Headphones,5,2147.92,0,10739.6,UPI,Delivered,6.0,4.0
+ORD10221,2025-04-14,CUST1039,VIP,West,Mumbai,Fashion,T-Shirt,5,732.23,0,3661.15,Cash on Delivery,Cancelled,,
+ORD10222,2025-05-03,CUST1083,New,South,Chennai,Office Supplies,Office Chair,4,6610.62,5,25120.36,Credit Card,Delivered,6.0,5.0
+ORD10223,2025-06-30,CUST1087,New,South,Hyderabad,Office Supplies,Printer Paper,3,352.96,15,900.05,Credit Card,Delivered,3.0,5.0
+ORD10224,2025-10-01,CUST1075,VIP,Central,Indore,Home & Kitchen,Storage Rack,1,2691.41,5,2556.84,Credit Card,Delivered,7.0,2.0
+ORD10225,2025-03-31,CUST1096,Returning,East,Kolkata,Fashion,Running Shoes,4,2487.99,15,8459.17,Net Banking,Delivered,1.0,2.0
+ORD10226,2025-06-23,CUST1021,VIP,Central,Nagpur,Home & Kitchen,Study Lamp,3,892.73,0,2678.19,Cash on Delivery,Delivered,6.0,2.0
+ORD10227,2025-02-21,CUST1093,New,Central,Nagpur,Electronics,Keyboard,3,1290.69,0,3872.07,UPI,Delivered,8.0,4.0
+ORD10228,2025-02-13,CUST1008,New,North,Chandigarh,Home & Kitchen,Water Bottle,1,419.13,0,419.13,Cash on Delivery,Delivered,8.0,1.0
+ORD10229,2025-08-19,CUST1053,Returning,North,Chandigarh,Fashion,Running Shoes,4,2758.98,0,11035.92,Debit Card,Delivered,6.0,3.0
+ORD10230,2025-03-03,CUST1027,New,North,Jaipur,Fashion,T-Shirt,3,733.22,0,2199.66,Credit Card,Cancelled,,
+ORD10231,2025-09-08,CUST1077,New,West,Ahmedabad,Office Supplies,Desk Organizer,2,581.36,20,930.18,Credit Card,Returned,2.0,5.0
+ORD10232,2025-04-18,CUST1056,Returning,West,Mumbai,Home & Kitchen,Study Lamp,5,909.91,0,4549.55,Net Banking,Delivered,3.0,2.0
+ORD10233,2025-09-11,CUST1008,New,Central,Indore,Electronics,Headphones,1,2261.51,5,2148.43,Debit Card,Delivered,6.0,4.0
+ORD10234,2025-06-10,CUST1024,Returning,Central,Bhopal,Home & Kitchen,Water Bottle,2,467.49,5,888.23,Debit Card,Cancelled,,
+ORD10235,2025-07-02,CUST1093,Returning,Central,Nagpur,Electronics,Monitor,3,12739.44,10,34396.49,Debit Card,Cancelled,,
+ORD10236,2025-01-27,CUST1049,VIP,Central,Bhopal,Fashion,Running Shoes,4,2606.53,0,10426.12,Debit Card,Cancelled,,
+ORD10237,2025-06-14,CUST1010,New,Central,Bhopal,Fashion,T-Shirt,5,664.26,10,2989.17,Debit Card,Delivered,2.0,1.0
+ORD10238,2025-01-12,CUST1095,New,East,Bhubaneswar,Home & Kitchen,Storage Rack,4,2831.35,15,9626.59,Net Banking,Returned,3.0,1.0
+ORD10239,2025-05-31,CUST1091,Returning,South,Bengaluru,Electronics,Keyboard,4,1249.85,5,4749.43,Net Banking,Delivered,2.0,2.0
+ORD10240,2025-03-23,CUST1027,Returning,South,Hyderabad,Home & Kitchen,Storage Rack,5,2704.53,20,10818.12,Cash on Delivery,Delivered,3.0,4.0
+ORD10241,2025-08-22,CUST1021,Returning,North,Jaipur,Electronics,Monitor,3,13219.94,5,37676.83,Cash on Delivery,Delivered,8.0,2.0
+ORD10242,2025-12-26,CUST1080,New,Central,Indore,Electronics,Keyboard,3,1293.13,5,3685.42,Credit Card,Returned,11.0,3.0
+ORD10243,2025-07-04,CUST1075,New,North,Chandigarh,Fashion,Running Shoes,3,2656.85,0,7970.55,Credit Card,Delivered,4.0,4.0
+ORD10244,2025-11-07,CUST1076,Returning,East,Kolkata,Fashion,Backpack,1,1586.25,10,1427.62,UPI,Delivered,2.0,1.0
+ORD10245,2025-08-28,CUST1007,New,North,Jaipur,Office Supplies,Office Chair,1,6266.03,5,5952.73,Debit Card,Cancelled,,
+ORD10246,2025-02-26,CUST1045,New,North,Chandigarh,Office Supplies,Notebook Pack,5,254.26,0,1271.3,Cash on Delivery,Delivered,4.0,4.0
+ORD10247,2025-03-07,CUST1016,New,North,Jaipur,Fashion,Watch,1,2022.79,10,1820.51,Net Banking,Delivered,5.0,4.0
+ORD10248,2025-12-14,CUST1048,New,North,Jaipur,Electronics,Headphones,3,2197.91,20,5274.98,Credit Card,Delivered,3.0,5.0
+ORD10249,2025-09-17,CUST1065,Returning,North,Chandigarh,Fashion,Backpack,2,1476.72,10,2658.1,Net Banking,Delivered,4.0,3.0
+ORD10250,2025-02-07,CUST1061,New,South,Bengaluru,Fashion,Watch,4,1892.41,0,7569.64,UPI,Cancelled,,
+ORD10251,2025-06-01,CUST1093,New,East,Bhubaneswar,Office Supplies,Notebook Pack,3,237.07,0,711.21,Cash on Delivery,Delivered,7.0,3.0
+ORD10252,2025-12-14,CUST1098,VIP,South,Bengaluru,Fashion,Backpack,5,1475.09,10,6637.9,Cash on Delivery,Returned,9.0,4.0
+ORD10253,2025-11-07,CUST1042,Returning,West,Mumbai,Electronics,Headphones,1,2240.07,0,2240.07,UPI,Returned,8.0,3.0
+ORD10254,2025-09-24,CUST1051,New,West,Ahmedabad,Fashion,Running Shoes,1,2745.18,15,2333.4,Cash on Delivery,Delivered,4.0,4.0
+ORD10255,2025-03-05,CUST1047,VIP,North,Chandigarh,Electronics,Headphones,2,2101.29,20,3362.06,Net Banking,Cancelled,,
+ORD10256,2025-05-19,CUST1025,Returning,Central,Bhopal,Electronics,Wireless Mouse,5,686.58,15,2917.97,Cash on Delivery,Cancelled,,
+ORD10257,2025-12-27,CUST1068,New,North,Delhi,Electronics,Keyboard,4,1132.91,15,3851.89,UPI,Delivered,1.0,4.0
+ORD10258,2025-04-15,CUST1053,Returning,West,Pune,Home & Kitchen,Mixer Grinder,4,3115.54,0,12462.16,Debit Card,Delivered,7.0,4.0
+ORD10259,2025-02-12,CUST1049,New,South,Bengaluru,Office Supplies,Desk Organizer,4,583.89,0,2335.56,UPI,Cancelled,,
+ORD10260,2025-04-15,CUST1042,Returning,North,Delhi,Electronics,Headphones,1,2073.21,10,1865.89,Credit Card,Delivered,4.0,4.0
+ORD10261,2025-05-17,CUST1011,New,West,Mumbai,Home & Kitchen,Water Bottle,4,460.9,5,1751.42,Credit Card,Cancelled,,
+ORD10262,2025-10-23,CUST1060,New,South,Chennai,Home & Kitchen,Mixer Grinder,2,3137.45,15,5333.66,Debit Card,Returned,7.0,2.0
+ORD10263,2025-02-06,CUST1003,Returning,Central,Indore,Office Supplies,Office Chair,3,6794.13,15,17325.03,Net Banking,Returned,11.0,2.0
+ORD10264,2025-08-19,CUST1005,New,West,Ahmedabad,Office Supplies,Office Chair,4,6946.33,10,25006.79,Debit Card,Returned,11.0,4.0
+ORD10265,2025-12-27,CUST1085,New,West,Pune,Fashion,Backpack,2,1476.15,0,2952.3,Debit Card,Delivered,4.0,1.0
+ORD10266,2025-02-17,CUST1095,New,South,Hyderabad,Electronics,Monitor,3,11603.44,0,34810.32,Debit Card,Cancelled,,
+ORD10267,2025-12-06,CUST1026,Returning,East,Patna,Electronics,Wireless Mouse,3,650.25,0,1950.75,Cash on Delivery,Returned,11.0,5.0
+ORD10268,2025-11-09,CUST1098,New,North,Jaipur,Electronics,Keyboard,2,1178.86,10,2121.95,Credit Card,Delivered,5.0,5.0
+ORD10269,2025-03-15,CUST1068,New,East,Bhubaneswar,Electronics,Wireless Mouse,2,668.72,10,1203.7,Credit Card,Delivered,2.0,3.0
+ORD10270,2025-06-20,CUST1058,New,South,Bengaluru,Home & Kitchen,Mixer Grinder,4,3128.99,10,11264.36,Cash on Delivery,Delivered,7.0,1.0
+ORD10271,2025-06-30,CUST1075,New,West,Pune,Home & Kitchen,Mixer Grinder,1,3007.46,10,2706.71,Cash on Delivery,Returned,4.0,4.0
+ORD10272,2025-09-17,CUST1100,New,South,Chennai,Office Supplies,Desk Organizer,4,568.8,0,2275.2,UPI,Cancelled,,
+ORD10273,2025-03-06,CUST1093,New,Central,Indore,Electronics,Headphones,3,2239.81,15,5711.52,UPI,Delivered,1.0,1.0
+ORD10274,2025-04-10,CUST1020,New,West,Mumbai,Office Supplies,Notebook Pack,2,231.31,5,439.49,Credit Card,Delivered,3.0,2.0
+ORD10275,2025-02-02,CUST1076,VIP,South,Chennai,Office Supplies,Office Chair,2,6006.21,5,11411.8,Cash on Delivery,Delivered,2.0,2.0
+ORD10276,2025-04-25,CUST1085,VIP,West,Pune,Electronics,Headphones,3,2296.43,20,5511.43,Debit Card,Delivered,7.0,4.0
+ORD10277,2025-04-23,CUST1100,Returning,West,Pune,Electronics,Monitor,5,13358.48,15,56773.54,UPI,Delivered,1.0,5.0
+ORD10278,2025-10-09,CUST1086,New,North,Jaipur,Home & Kitchen,Study Lamp,1,943.09,15,801.63,Credit Card,Returned,8.0,3.0
+ORD10279,2025-06-13,CUST1043,VIP,Central,Indore,Office Supplies,Office Chair,1,6255.82,15,5317.45,Credit Card,Returned,5.0,5.0
+ORD10280,2025-04-30,CUST1026,Returning,Central,Indore,Office Supplies,Desk Organizer,3,550.22,15,1403.06,UPI,Delivered,4.0,3.0
+ORD10281,2025-05-31,CUST1097,Returning,West,Mumbai,Office Supplies,Office Chair,3,6836.87,10,18459.55,Cash on Delivery,Returned,4.0,4.0
+ORD10282,2025-07-12,CUST1059,New,North,Delhi,Fashion,Watch,1,1799.67,20,1439.74,Cash on Delivery,Delivered,7.0,2.0
+ORD10283,2025-09-21,CUST1082,New,South,Chennai,Office Supplies,Notebook Pack,3,232.35,5,662.2,Debit Card,Delivered,5.0,1.0
+ORD10284,2025-02-13,CUST1019,New,North,Delhi,Home & Kitchen,Mixer Grinder,4,3423.77,5,13010.33,Debit Card,Delivered,8.0,2.0
+ORD10285,2025-02-27,CUST1100,Returning,East,Kolkata,Home & Kitchen,Study Lamp,3,843.0,10,2276.1,Cash on Delivery,Cancelled,,
+ORD10286,2025-02-02,CUST1095,New,West,Pune,Home & Kitchen,Mixer Grinder,5,3002.38,20,12009.52,Credit Card,Delivered,8.0,4.0
+ORD10287,2025-03-11,CUST1071,New,West,Mumbai,Fashion,T-Shirt,3,744.62,5,2122.17,UPI,Returned,4.0,3.0
+ORD10288,2025-08-28,CUST1095,Returning,North,Chandigarh,Electronics,Headphones,2,2057.1,10,3702.78,Cash on Delivery,Cancelled,,
+ORD10289,2025-05-15,CUST1007,New,Central,Bhopal,Home & Kitchen,Water Bottle,2,452.68,20,724.29,Credit Card,Delivered,3.0,5.0
+ORD10290,2025-04-06,CUST1035,Returning,North,Jaipur,Fashion,T-Shirt,1,714.22,15,607.09,Net Banking,Delivered,4.0,2.0
+ORD10291,2025-12-19,CUST1080,New,South,Hyderabad,Electronics,Keyboard,3,1204.22,5,3432.03,Debit Card,Delivered,8.0,5.0
+ORD10292,2025-06-17,CUST1013,Returning,East,Kolkata,Office Supplies,Printer Paper,5,355.24,20,1420.96,Debit Card,Delivered,5.0,1.0
+ORD10293,2025-08-18,CUST1085,VIP,Central,Indore,Electronics,Headphones,5,2239.58,10,10078.11,UPI,Delivered,7.0,3.0
+ORD10294,2025-11-11,CUST1019,New,West,Ahmedabad,Electronics,Headphones,2,2252.24,0,4504.48,Net Banking,Delivered,4.0,1.0
+ORD10295,2025-11-21,CUST1030,VIP,West,Pune,Home & Kitchen,Water Bottle,1,469.02,10,422.12,Net Banking,Delivered,2.0,2.0
+ORD10296,2025-04-20,CUST1005,New,South,Hyderabad,Fashion,Running Shoes,2,2408.44,15,4094.35,Net Banking,Delivered,6.0,4.0
+ORD10297,2025-06-22,CUST1033,Returning,South,Chennai,Office Supplies,Desk Organizer,4,548.77,5,2085.33,Debit Card,Returned,6.0,1.0
+ORD10298,2025-12-30,CUST1019,New,West,Pune,Home & Kitchen,Study Lamp,5,839.34,15,3567.19,Credit Card,Delivered,4.0,1.0
+ORD10299,2025-07-01,CUST1007,New,North,Jaipur,Home & Kitchen,Water Bottle,4,480.19,20,1536.61,UPI,Returned,2.0,5.0
+ORD10300,2025-03-18,CUST1050,Returning,South,Bengaluru,Home & Kitchen,Mixer Grinder,5,3045.44,5,14465.84,Credit Card,Delivered,5.0,3.0
+ORD10011,2025-07-23,CUST1041,Returning,East,Kolkata,Office Supplies,Office Chair,4,6795.25,0,27181.0,UPI,Returned,8.0,3.0
+ORD10051,2025-02-13,CUST1013,Returning,Central,Indore,Electronics,Headphones,5,2323.39,10,10455.25,Net Banking,Returned,8.0,1.0
